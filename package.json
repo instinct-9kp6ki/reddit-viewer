@@ -1,0 +1,9 @@
+{
+  "name": "reddit-viewer",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Anonymous Reddit viewer: feeds, search, sorts, comments, proxied media/video, device-local saves.",
+  "main": "standalone-server.js",
+  "scripts": { "start": "node standalone-server.js" },
+  "engines": { "node": ">=18" }
+}
